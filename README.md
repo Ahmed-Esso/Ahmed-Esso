@@ -19,24 +19,28 @@
 - Developing a professional portfolio showcasing **Python, SQL, and Power BI expertise**
 - Building **end-to-end analytics solutions** from data extraction to visualization
 - Creating **impactful dashboards** that tell compelling data stories
+- Building **AI agents and automation workflows** using n8n
 
 ### 👯 **I'm looking to collaborate on:**
 - **Open-source data analysis projects** that create community value
 - **Freelance business intelligence opportunities** focusing on actionable insights
 - **Dashboard development projects** that require both technical and design skills
 - **Cross-functional analytics initiatives** bridging business and technology
+- **AI automation projects** and intelligent workflow solutions
 
 ### 🤝 **I'm looking for help with:**
 - **Advanced data visualization techniques** and modern design principles
 - **Data storytelling best practices** for executive-level presentations
-- **Machine learning model optimization** and deployment strategies
+- **Advanced machine learning model optimization** and deployment strategies
 - **Industry networking** with experienced data professionals
 
 ### 🌱 **I'm currently learning:**
 - **Advanced SQL techniques** including window functions and query optimization
-- **Machine learning fundamentals** using Python libraries (scikit-learn, TensorFlow)
+- **Advanced machine learning techniques** and deep learning with Python
 - **Cloud data platforms** (AWS, Azure) for scalable analytics solutions
 - **Statistical modeling** and **A/B testing methodologies**
+- **SPSS** for advanced statistical analysis
+- **Tableau** for enhanced data visualization capabilities
 
 ### 💬 **Ask me about:**
 - **Data cleaning and preprocessing** - turning messy data into analysis-ready datasets
@@ -44,9 +48,11 @@
 - **Python automation** for data workflows and repetitive analytical tasks
 - **SQL optimization** for faster query performance and better database design
 - **Business intelligence strategy** and translating business needs into technical solutions
+- **Machine learning implementation** and model building
+- **n8n automation workflows** and AI agent development
 
 ### ⚡ **Fun fact:**
-I'm passionate about **designing user-friendly interfaces** and believe that the best analytics solutions combine **technical excellence with intuitive design**. When I'm not analyzing data, you'll find me exploring **UI/UX principles** that make complex information accessible to everyone!
+I don't like coffee! ☕❌ I prefer staying energized through the excitement of discovering new insights in data and building innovative automation solutions.
 
 ---
 
@@ -69,6 +75,8 @@ I'm passionate about **designing user-friendly interfaces** and believe that the
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 🗄️ **Databases & SQL**
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -78,6 +86,9 @@ I'm passionate about **designing user-friendly interfaces** and believe that the
 ### 📊 **Business Intelligence & Visualization**
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 🤖 **Automation & AI**
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### 🌐 **Web Technologies**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -109,7 +120,7 @@ I'm passionate about **designing user-friendly interfaces** and believe that the
 ## 🎯 **What Sets Me Apart:**
 
 - 🔍 **Detail-Oriented Analysis:** I believe in thorough data exploration before jumping to conclusions
-- 🎨 **Design-Minded Approach:** Technical skills combined with UI/UX sensibility for better user experience  
+- 🤖 **Automation Expert:** Leveraging n8n and AI agents to streamline workflows and enhance productivity
 - 📈 **Business Impact Focus:** Every analysis should drive actionable business decisions
 - 🤝 **Collaborative Spirit:** Love working with cross-functional teams to solve complex problems
 - 📚 **Continuous Learning:** Always exploring new tools, techniques, and industry best practices
@@ -123,8 +134,6 @@ I'm passionate about **designing user-friendly interfaces** and believe that the
 
 ### 🔝 **Top Contributed Repo**
 ![](https://github-contributor-stats.vercel.app/api?username=Ahmed-Esso&limit=5&theme=merko&combine_all_yearly_contributions=true)
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Ahmed-Esso&icon=0&color=0)
 
 </div>
 
