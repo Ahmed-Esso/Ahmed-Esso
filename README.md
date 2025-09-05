@@ -12,7 +12,7 @@
 
 ## 💫 About Me:
 
-**Data Analyst & Business Intelligence Developer** passionate about transforming complex data into clear, actionable insights. I specialize in creating comprehensive analytics solutions that drive strategic business decisions.
+**Data Scientist & Business Intelligence Developer** passionate about transforming complex data into clear, actionable insights. I specialize in creating comprehensive analytics solutions that drive strategic business decisions.
 
 ### 🔭 **I'm currently working on:**
 - Enhancing my data analysis skills through **real-world business projects**
